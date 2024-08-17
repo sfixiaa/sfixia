@@ -1,0 +1,136 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Estilos para secciones */
+section {
+    padding: 20px;
+}
+
+/* Estilos para im\'e1genes */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos con clases */
+.titulo-principal {
+    color: #0d0d0e;
+    text-align: center;
+    font-size: 24px; /* Tama\'f1o de fuente para los t\'edtulos principales */
+}
+
+.texto-destacado {
+    background-color: #e0e0e0;
+}
+
+.texto-grande {
+    font-size: 18px; /* Tama\'f1o de fuente m\'e1s grande para el texto destacado */
+}
+
+/* Estilos con id */
+#filosofia {
+    font-family: Georgia, serif; /* Cambia la fuente para la secci\'f3n de filosof\'eda */
+    background-color: lightblue; /* Cambia el color de fondo para la secci\'f3n de filosof\'eda */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+/* Estilos para la navegación */
+nav ul {
+    /* ... */
+}
+
+/* Estilos para las secciones */
+section {
+    padding: 20px;
+}
+
+/* Estilos para las tablas */
+table {
+    /* ... */
+}
+
+/* Estilos para las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Estilos para los mitos y filósofos */
+.mito, .filosofo {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header, nav, section, footer {
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+}
+
+.left-column, .right-column {
+    flex: 1;
+    padding: 10px;
+}
+
+/* Estilos adicionales que puedes personalizar */
+.titulo-principal {
+    font-size: 24px;
+    text-align: center;
+}
+
+.texto-destacado {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* ... */
+/* Personalizamos los estilos de Bootstrap */
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
